@@ -10,3 +10,5 @@
 - Lightly-forked edition of [NextCloudPi](https://github.com/nextcloud/nextcloudpi/compare/master...DesktopECHO:master) 
 - When the Linux container is created NextCloudPi provisions automatically via install.sh
 - Idential otherwise to debian.tgz above
+
+[![Install ncd12.tgz](https://img.youtube.com/vi/RuHJ_S9DcG4/maxresdefault.jpg)](https://youtu.be/RuHJ_S9DcG4)
