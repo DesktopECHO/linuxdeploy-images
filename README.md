@@ -27,8 +27,8 @@
         -  **Autostart**
      -  Open **Properties Menu** (To the right of the 'Stop' button)
         -  Distribution: **rootfs.tar**
-        -  Source Path - This varies depending on the device, ie: **${EXTERNAL_STORAGE}/Download/p4a17.tgz**
-        -  Image size (MB): **4000** (Recommmended, for smaller devices minimum is 2000 MB)
+        -  Source Path: **https://github.com/DesktopECHO/linuxdeploy-images/raw/main/debian.tgz**
+        -  Image size: **2047** (Or **4095** if installing NextCloud)
         -  Set password for user **android**
         -  Init -> **Enable**
         -  Init System -> **sysv**
@@ -37,9 +37,7 @@
         -  Wait a few minutes for the image to install.
           
      -  When install is complete, the Linux Deploy console window will show the following at the end of the console output: 
-        
-        `````[HH:mm:ss] >>> :: Configuring core/sudo ...`````
-        
+              
         `````[HH:mm:ss] >>> :: Configuring core/unchroot ...`````
         
         `````[HH:mm:ss] >>> deploy`````
