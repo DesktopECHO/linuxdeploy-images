@@ -27,7 +27,7 @@
         -  **Autostart**
      -  Open **Properties Menu** (To the right of the 'Stop' button)
         -  Distribution: **rootfs.tar**
-        -  Source Path: **https://github.com/DesktopECHO/linuxdeploy-images/raw/main/debian.tgz**
+        -  Source Path: **https://github.com/DesktopECHO/linuxdeploy-images/raw/main/debian.tgz** (Or **ncd12.tgz** for NextCloudPi)
         -  Image size: **2047** (Or **4095** if installing NextCloud)
         -  Set password for user **android**
         -  Init -> **Enable**
