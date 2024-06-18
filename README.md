@@ -1,9 +1,12 @@
 # QuickStart Images for Linux Deploy
 
 ## [fedora40-kde6-arm64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/releases/download/v1.0/fedora40-kde6-arm64.tgz)
-- Fedora 40 (aarch64)
+- Fedora 40 ARM64
 - KDE 6.0
 - Xrdp 
+
+## [bookworm-aarch64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/bookworm-aarch64.tgz)
+- Debian 12 (Bookworm) minimal image, ARM64
 
 ## [debian.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/debian.tgz)
 - Debian 11 (Bullseye) minimal image 32-bit ARMv7
