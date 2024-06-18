@@ -1,7 +1,12 @@
 # QuickStart Images for Linux Deploy
 
+## [fedora40-kde6-arm64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/releases/download/v1.0/fedora40-kde6-arm64.tgz)
+- Fedora 40 (aarch64)
+- KDE 6.0
+- Xrdp 
+
 ## [debian.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/debian.tgz)
-- Debian 11 (Bullseye) minimal image
+- Debian 11 (Bullseye) minimal image 32-bit ARMv7
 - uname shim to hide reporting aarch64 when running 32-bit distros  
 - Includes systemd-shim as many installers expect a working systemctl
 - Dropbear SSHd listening on port 22022
