@@ -1,9 +1,9 @@
 # QuickStart Images for Linux Deploy
 
-## [fedora40-kde6-arm64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/releases/download/v1.0/fedora40-kde6-arm64.tgz)
-- Fedora 40 ARM64
-- KDE 6.0
-- Xrdp 
+## [f40kde-arm64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/releases/download/v1.0/f40kde-arm64.tgz) · Refreshed September 2024
+- Fedora 40 for ARM64-based Andrid devices
+- KDE Plasma 6.1
+- xRDP with h.264 codec 
 
 ## [bookworm-aarch64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/bookworm-aarch64.tgz)
 - Debian 12 (Bookworm) minimal image, ARM64
