@@ -1,5 +1,13 @@
 # QuickStart Images for Linux Deploy
 
+## [trixie.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/trixie.tgz)
+- Debian 13 (Trixie) minimal image, aarch64
+- Dropbear SSHd listening on port 22
+
+## [trixie32.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/trixie32.tgz)
+- Debian 13 (Trixie) minimal image, armhf
+- Dropbear SSHd listening on port 22
+  
 ## [f40kde-arm64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/releases/download/v1.0/f40kde-arm64.tgz) · Refreshed September 2024
 - Fedora 40 for ARM64-based Andrid devices
 - KDE Plasma 6.1
@@ -7,7 +15,6 @@
 <img src="https://github.com/user-attachments/assets/7177cd35-30b4-4fdc-b3a9-443c76530a23" width="384">
 <img src="https://github.com/user-attachments/assets/94482c26-2609-4272-8af0-5139e329dbb2" width="384">
 <img src="https://github.com/user-attachments/assets/8cad1bb9-8158-4e16-8016-2c7db75513a0" width="768">
-
 
 ## [bookworm-aarch64.tgz](https://github.com/DesktopECHO/linuxdeploy-images/raw/main/bookworm-aarch64.tgz)
 - Debian 12 (Bookworm) minimal image, ARM64
